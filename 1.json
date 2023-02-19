@@ -1,4 +1,9 @@
 {
   "list": [{ "name": "lcu", "id": 1, "age": 18 }],
-  "age": [{ "lcy": 18 }]
+  "age": [{ "lcy": 18 }],
+  "add": [
+    {
+      "city": "guilin"
+    }
+  ]
 }
